@@ -1,0 +1,59 @@
+{
+  "timestamp": "2026-02-27T20:37:49.731344",
+  "last_draw_id": 4989,
+  "last_draw_date": "25.02.2026",
+  "last_draw_numbers": [
+    9,
+    13,
+    25,
+    30,
+    37,
+    46
+  ],
+  "predictions": {
+    "mlp": 24.129901319718716,
+    "rf": 24.343428044943902,
+    "sma": 22.650000000000002,
+    "ensemble": 23.70777645488754
+  },
+  "recommended_numbers": [
+    5,
+    27,
+    29,
+    36,
+    37,
+    48
+  ],
+  "recommended_strategy": "Жадный",
+  "all_strategies": {
+    "greedy": [
+      5,
+      27,
+      29,
+      36,
+      37,
+      48
+    ],
+    "weighted": [
+      2,
+      5,
+      20,
+      29,
+      37,
+      48
+    ],
+    "balanced": [
+      7,
+      27,
+      28,
+      30,
+      33,
+      48
+    ]
+  },
+  "statistics": {
+    "total_draws": 4989,
+    "mean_rank_avg": 24.434355582281018,
+    "mean_rank_std": 5.486931541673119
+  }
+}
